@@ -1,0 +1,4 @@
+[core]
+    remote = s3databucket
+['remote "s3databucket"']
+    url = s3://data-analysis-pl-camara-dvc
