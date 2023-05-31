@@ -1,2 +1,4 @@
 .vscode
 .aws/credentials
+/models
+/results
